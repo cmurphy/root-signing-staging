@@ -48,6 +48,14 @@
       "operator": "sigstore.dev"
     },
     {
+      "url": "https://global.rekor.sigstage.dev",
+      "majorApiVersion": 2,
+      "validFor": {
+        "start": "2026-06-12T00:00:00Z"
+      },
+      "operator": "sigstore.dev"
+    },
+    {
       "url": "https://rekor.sigstage.dev",
       "majorApiVersion": 1,
       "validFor": {
